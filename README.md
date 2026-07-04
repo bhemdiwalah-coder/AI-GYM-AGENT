@@ -4,9 +4,7 @@ An AI-powered conversational agent built to automate customer support and lead g
 
 ## 📺 Project Demo
 Click the link below to watch a 1-minute video demo of the AI agent in action:
-* **[Watch the Demo Video Here](<img width="942" height="958" alt="image" src="https://github.com/user-attachments/assets/0080a955-8ebc-42ee-89ab-6d563ed23915" />
-)**
-
+* **[Watch the Demo Video Here](https://www.loom.com/share/b7d3d64f41ad41baba1aff07bdb1c1eb)
 ## 🧠 System Architecture (Prompt Engineering)
 The agent operates using a strictly defined persona, goal context, and guardrails to ensure precise information delivery.
 
